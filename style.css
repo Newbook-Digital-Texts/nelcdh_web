@@ -1,11 +1,12 @@
-html {
-	background-color: #FBFACE;
-	font-size: calc(1vw);
-	text-align: center;
-	font-family: Georgia;
+.tl-timeline {
+	background-color: #F6592F
 }
 
-h1 {
-	opacity: .2;
+.tl-timenav {
+	background-color: #FFFF
 }
-
+/*
+.tl-timemarker .tl-timemarker-content-container {
+	background-color: #00f0ce;
+}
+*/
