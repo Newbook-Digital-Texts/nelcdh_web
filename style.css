@@ -1,11 +1,9 @@
 .tl-timeline {
-	background-color: #F6592F;
+	 /*background-color: #F6592F; */
+	 background-color: blue;
 }
 
-.tl-timegroup .tl-timegroup-message {
-	
-	color: black;
-}
+
 .tl-timemarker .tl-timemarker-content-container 
 .tl-timemarker-content.tl-timemarker-content-small .tl-timemarker-text h2.tl-headline{
 	color: black;
@@ -14,5 +12,43 @@
     color: black;
     opacity: .6;
     text-shadow: 0px 0px 0px #000000;
+}
+
+.tl-storyslider .tl-slider-container-mask {
+	background-color: #E6CD98;
+}
+.tl-timemarker .tl-timemarker-content-container {
+	border: thin black solid;
+}
+.tl-slidenav-next .tl-slidenav-title {
+	opacity: .6;
+	text-shadow: 0px 0px 0px #000000;
+}
+.tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-title {
+	text-shadow: 0px 0px 0px #000000;
+	opacity: .6;
+}
+.tl-text .tl-headline-date, .tl-text h3.tl-headline-date {
+	color: black;
+}
+.tl-timegroup { 
+	background-color: #D0D0D0;
+	margin :  0px;
+	padding: 0px;
+}
+.tl-timegroup.tl-timegroup-alternate {
+	background-color: #847B7E;
+	margin: 0px;
+	padding: 0px;
+}
+
+.tl-timegroup.tl-timegroup-alternate .tl-timegroup-message {
+	color: white;
+	text-shadow: 0px 0px 0px #000000;
+}
+.tl-timegroup .tl-timegroup-message {
+	
+	color: black;
+	text-shadow: 0px 0px 0px #000000;
 }
 
