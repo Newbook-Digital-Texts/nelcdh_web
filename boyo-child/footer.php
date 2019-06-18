@@ -21,8 +21,8 @@ boyo_css_loader( 'footer' );
 				/* translators: 1: Theme name, 2: Theme author. */
 				
 				printf(('<a href="http://www.washington.edu/online/privacy//">Privacy|</a>' ));
-				printf(('<a href = "https://depts.washington.edu/newbook/staff/staff.html">Terms|</a>' ));
-				printf(('<a href="http://www.washington.edu/online/terms/">STAFF LOGIN</a>' ));
+				printf(('<a href = "http://www.washington.edu/online/terms/">Terms|</a>' ));
+				printf('©2019 University of Washington');
 
 				?>
 		</div><!-- .site-info -->
